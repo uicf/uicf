@@ -1,4 +1,4 @@
-# uicf
+# mingxuan
 
 用 AI 写点小工具，偶尔折腾 API 线路。
 
